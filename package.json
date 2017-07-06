@@ -1,0 +1,31 @@
+{
+  "name": "auth_app",
+  "version": "1.0.0",
+  "description": "MEAN stack authentication app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.26",
+    "aes-js": "^3.1.0",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "bootstrap": "^3.3.7",
+    "cors": "*",
+    "express": "*",
+    "jquery": "^3.2.1",
+    "jsonwebtoken": "*",
+    "mongoose": "^4.7.2",
+    "ngx-bootstrap": "^1.7.1",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jacksonc4/MEAN-Stack-Password-App.git"
+  },
+  "author": "Curtis",
+  "license": "ISC"
+}
