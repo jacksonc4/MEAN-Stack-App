@@ -17,14 +17,24 @@ ng build -prod
 Once built, app is accessible at localhost:3000
 
 ## Screenshots
-![Screenshot](1_App_Home_Screen.png)
-![Screenshot](2_App_Register_Modal.png)
-![Screenshot](3_App_Register_Modal2.png)
-![Screenshot](4_App_Login_Modal.png)
-![Screenshot](5_App_Dashboard.png)
-![Screenshot](6_App_Profile.png)
-![Screenshot](7_App_Edit_Credentials_Modal.png)
-![Screenshot](8_App_Edit_Credentials_Modal2.png)
-![Screenshot](9_App_Profile_Edited.png)
-![Screenshot](10_App_Delete_Credentials_Modal.png)
-![Screenshot](11_App_Credentials_Removed.png)
+![Screenshot](screenshots/1_App_Home_Screen.png)
+
+![Screenshot](screenshots/2_App_Register_Modal.png)
+
+![Screenshot](screenshots/3_App_Register_Modal2.png)
+
+![Screenshot](screenshots/4_App_Login_Modal.png)
+
+![Screenshot](screenshots/5_App_Dashboard.png)
+
+![Screenshot](screenshots/6_App_Profile.png)
+
+![Screenshot](screenshots/7_App_Edit_Credentials_Modal.png)
+
+![Screenshot](screenshots/8_App_Edit_Credentials_Modal2.png)
+
+![Screenshot](screenshots/9_App_Profile_Edited.png)
+
+![Screenshot](screenshots/10_App_Delete_Credentials_Modal.png)
+
+![Screenshot](screenshots/11_App_Credentials_Removed.png)
